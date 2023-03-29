@@ -1,6 +1,12 @@
-# itravel
+# Travel, Tourism, Vacation App built using Flutter
 
-A new Flutter project.
+A beautiful and fully functional Travel App UI clone in Flutter. Built using Bloc Design Pattern.
+## Screenshots
+![image](https://github.com/ogbodotg/travelapp/blob/master/assets/screenshots/home_slider1.png)
+![image](https://github.com/ogbodotg/travelapp/blob/master/assets/screenshots/home_slider2.png)
+![image](https://github.com/ogbodotg/travelapp/blob/master/assets/screenshots/home_slider3.png)
+![image](https://github.com/ogbodotg/travelapp/blob/master/assets/screenshots/homepage.png)
+![image](https://github.com/ogbodotg/travelapp/blob/master/assets/screenshots/detail_page.png)
 
 ## Getting Started
 
